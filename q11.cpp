@@ -33,7 +33,7 @@ void solve(){
         }
     }
 
-    cout << "Deepak should buy roses whose prices are " << a << " and " << b << endl; 
+    cout << "Deepak should buy roses whose prices are " << a << " and " << b << "." << endl; 
 
     
 }
