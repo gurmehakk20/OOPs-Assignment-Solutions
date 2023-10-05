@@ -3,7 +3,6 @@
 #include <climits>
 #include <algorithm>
 
-#define INT_MAX 2147483647
 using namespace std;
 int main()
 {
